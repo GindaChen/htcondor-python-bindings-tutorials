@@ -14,7 +14,7 @@
 # limitations under the License.
 
 FROM jupyter/minimal-notebook:7d427e7a4dde
-ARG HTCONDOR_VERSION=8.8
+ARG HTCONDOR_VERSION=8.9
 
 USER root
 
